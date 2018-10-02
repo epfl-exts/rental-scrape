@@ -1,0 +1,129 @@
+body {
+	font-family: "Montserrat";
+    background-color: #efefef;
+    margin: 0;
+}
+
+.banner {
+    background-image: url("../images/architecture-buildings1.png");
+
+    height: 100%; 
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner h1 {
+	color: #fff;
+	margin-bottom: 0;
+	line-height: 1;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.banner-content {
+	height: 350px;
+}
+
+.bg {
+	background-color: #343a40;
+}
+
+#sec-line {
+	padding-left: 50px;
+}
+
+.logo {
+	color: #057C33 !important;
+}
+
+.header-cont {
+	position: relative;
+	top: 150px;
+	color: #ffffff;
+	width: 500px;
+}
+
+.bg-sec-color {
+	background-color: #343a40;
+	height: 110px;
+}
+
+.bg-sec {
+    height: 100%; 
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-content {
+	color: #ffffff;
+}
+
+.bg-text {
+	color: #ffffff;
+	padding: 20px;
+}
+
+.bot-text {
+	padding-top: 20px;
+}
+
+.price {
+	font-size: 25px;
+}
+
+.address {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.object-type {
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+.sec-info {
+	background-color: #ffffff;
+	padding: 20px;
+	padding-bottom: 1px;
+}
+
+.sec-info2 {
+	background-color: #e7e7e7;
+	padding:10px 20px;
+	border-bottom: 1px solid #dddddd;
+	border-top: 1px solid #dddddd;
+	
+	
+
+}
+
+.sec-info p {
+	font-weight: 100;
+	font-size: 15px;
+	color: #555555;
+}
+
+.sec-info2 p {
+	font-weight: bold;
+	font-size: 13px;
+	color: #057C33;
+	text-transform: uppercase;
+}
+
+.row-wrapper {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.card-button {
+	background-color: #057C33;
+	color: #ffffff;
+	padding: 5px 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 12px;
+}
